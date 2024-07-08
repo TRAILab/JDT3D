@@ -1,2 +1,2 @@
-# JDT3D
-Code for JDT3D (ECCV 2024 Paper)
+# JDT3D (ECCV 2024)
+Code for JDT3D coming soon!
