@@ -49,6 +49,8 @@ This may take a while to run, but the files generated only need to be generated 
 # run from inside the docker container
 python tools/create_data.py nuscenes-tracking --root-path data/nuscenes --version v1.0-trainval --out-dir data/nuscenes --extra-tag nuscenes_track
 ```
+We provide a zip of the preprocessed data files here: https://drive.google.com/file/d/1vVsD4Xg09lp2N67Q3pwieo-aVwQjEBdm/view?usp=sharing
+
 
 ### Training
 
