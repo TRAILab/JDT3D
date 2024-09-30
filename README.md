@@ -104,7 +104,7 @@ bash ./tools/dist_test.sh projects/configs/tracking/jdt3d_f3.py path/to/checkpoi
 
 We thank the contributors to the following open-source projects. Our project would have been impossible without the work of these excellent researchers and engineers.
 
-* 3D Detection. [MMDetection3d](https://github.com/open-mmlab/mmdetection3d), [DETR3D](https://github.com/WangYueFt/detr3d), [PETR](https://github.com/megvii-research/PETR).
+* 3D Detection. [MMDetection3d](https://github.com/open-mmlab/mmdetection3d), [DETR3D](https://github.com/WangYueFt/detr3d), [PETR](https://github.com/megvii-research/PETR), [BEVFusion](https://github.com/mit-han-lab/bevfusion).
 * Multi-object tracking. [MOTR](https://github.com/megvii-research/MOTR), [MUTR3D](https://github.com/a1600012888/MUTR3D), [SimpleTrack](https://github.com/tusen-ai/SimpleTrack), [PF-Track](https://github.com/TRI-ML/PF-Track).
 * End-to-end motion forecasting. [FutureDet](https://github.com/neeharperi/FutureDet).
 
